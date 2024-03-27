@@ -1,5 +1,5 @@
 
-# react-native-static-server
+# react-native-static-server  "^0.5.0",
 
 A cross platform component for serving static assets with React Native.
 
